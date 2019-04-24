@@ -10,5 +10,4 @@ package createPattern.singleton;
  */
 public enum  EnumSingleton {
     INSTANCE;
-
 }
